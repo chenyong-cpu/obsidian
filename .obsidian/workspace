@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "b6eb41d5b193fb9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdea4623a5c67ab2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Speech and Language processing/README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2bc12072e3c3b31a",
+    "type": "split",
+    "children": [
+      {
+        "id": "581f7d865b1c853f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7c82b83a7ad7e74",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2a5eeb2ba87e37cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe1f1e6a517a3124",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0da0aa48393e9457",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7aa20972bb5d8ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60ee72f482c39f8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Speech and Language processing/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53edf19db8f3644e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Speech and Language processing/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d827433e7a2f3737",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c9b1575efceb5353",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Speech and Language processing/README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bdea4623a5c67ab2",
+  "lastOpenFiles": [
+    "[.md",
+    "Speech and Language processing/README.md",
+    "Python爬虫/README.md",
+    "C/makefile.md",
+    "Speech and Language processing/README.md.md",
+    "Python爬虫/README.md.md",
+    "2022-08-03.md",
+    "Speech and Language processing/ed3book_jan122022.pdf",
+    "sql.md.md"
+  ]
+}
